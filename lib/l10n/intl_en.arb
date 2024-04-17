@@ -1,0 +1,11 @@
+{
+    "signup" : "Sign up",
+    "signin" : "Sign in",
+    "username" : "Username",
+    "fullname" : "Full name" , 
+    "email" : "E-mail" ,
+    "password" : "Password" , 
+    "agree" : "Agree with" , 
+    "terms" : "Terms & Conditrions" , 
+    "member" : "I'm already a member"
+}
