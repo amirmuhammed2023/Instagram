@@ -6,3 +6,10 @@ UnderlineInputBorder kBorderTextField() {
     borderSide: BorderSide(color: AppColors.kBorderTextField, width: 2),
   );
 }
+
+OutlineInputBorder kOutlinedBorderTextField() {
+  return OutlineInputBorder(
+    borderRadius: BorderRadius.circular(16),
+    borderSide: const BorderSide(color: AppColors.kBorderTextField, width: 2),
+  );
+}
